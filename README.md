@@ -20,7 +20,12 @@
 
 [https://github.com/Joker-Xuan/Homework.git]
 
-`for i in range(100,1000):    a = i%10    b = (i%100 - a)/10    c = i//100    if c**3 + b**3 + a**3 == i :        print(i)`
+`for i in range(100,1000):    
+a = i%10    
+b= (i%100 - a)/10    
+c = i//100    
+if c**3 + b**3 + a**3 == i :        
+print(i)`
 
 ```
 for i in range(100,1000):
@@ -32,5 +37,5 @@ for i in range(100,1000):
 ```
 |  |  |  |  |
 | :---: | :--- | ---: | :---: |
-|   |  |  |   |
-|   |  |  |   |
+|        |       |       |        |
+|        |       |       |        |
